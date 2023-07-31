@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/huyle-app-fontend/static/css/main.c75268d7.chunk.css",
+    "main.js": "/huyle-app-fontend/static/js/main.88429dc5.chunk.js",
+    "main.js.map": "/huyle-app-fontend/static/js/main.88429dc5.chunk.js.map",
+    "runtime-main.js": "/huyle-app-fontend/static/js/runtime-main.31f1afe7.js",
+    "runtime-main.js.map": "/huyle-app-fontend/static/js/runtime-main.31f1afe7.js.map",
+    "static/css/2.89aa368b.chunk.css": "/huyle-app-fontend/static/css/2.89aa368b.chunk.css",
+    "static/js/2.29c8ceed.chunk.js": "/huyle-app-fontend/static/js/2.29c8ceed.chunk.js",
+    "static/js/2.29c8ceed.chunk.js.map": "/huyle-app-fontend/static/js/2.29c8ceed.chunk.js.map",
+    "static/js/3.6428faa7.chunk.js": "/huyle-app-fontend/static/js/3.6428faa7.chunk.js",
+    "static/js/3.6428faa7.chunk.js.map": "/huyle-app-fontend/static/js/3.6428faa7.chunk.js.map",
+    "index.html": "/huyle-app-fontend/index.html",
+    "static/css/2.89aa368b.chunk.css.map": "/huyle-app-fontend/static/css/2.89aa368b.chunk.css.map",
+    "static/css/main.c75268d7.chunk.css.map": "/huyle-app-fontend/static/css/main.c75268d7.chunk.css.map",
+    "static/js/2.29c8ceed.chunk.js.LICENSE.txt": "/huyle-app-fontend/static/js/2.29c8ceed.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/huyle-app-fontend/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/getFetch.cjs": "/huyle-app-fontend/static/media/getFetch.582d29c4.cjs",
+    "static/media/logo.6ce24c58.svg": "/huyle-app-fontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31f1afe7.js",
+    "static/css/2.89aa368b.chunk.css",
+    "static/js/2.29c8ceed.chunk.js",
+    "static/css/main.c75268d7.chunk.css",
+    "static/js/main.88429dc5.chunk.js"
+  ]
+}
